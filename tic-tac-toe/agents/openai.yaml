@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tic-Tac-Toe"
+  short_description: "Play and evaluate 3×3 Tic-Tac-Toe"
+  default_prompt: "Play a 3×3 game of Tic-Tac-Toe against me, then evaluate the game."
